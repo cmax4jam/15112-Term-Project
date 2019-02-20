@@ -1,5 +1,5 @@
-Tile Run 
-By C.J. May
+# Tile Run 
+### By C.J. May
 
 Tile run is an endless path-finding game where the user controls a player block to avoid enemy blocks traveling toward it.  The player is also allowed to jump over blocks, but must do so cautiously as they will not be able to move the player while in the air, making it easier to get stuck (and then pushed off) when they land.  
 
